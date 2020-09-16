@@ -1,7 +1,7 @@
 # Yefes Mikhail
 address: Israel, Qiryat-Gat, 11/5  
 mobile: +972 53 892 63 01  
-E-mail: mixaefes@gmail.com  
+E-mail: mixaefes@gmail.com, mixaefes@mail.ru  
 ### PERSONAL QUALITIES 
 Willingness to learn something new and improve, analytical thinking,  
 result oriented, stress-resistant, deadline respect, strong communication  
