@@ -17,3 +17,5 @@ Electrotechnical Faculty
 1. Hebrew (סיימתי אולפן א)
 ### TECHNICAL SKILLS
 Java, Android Studio, SQL, XML, Git, OBS.
+### INTERESTS 
+Traveling, Sport, Music
